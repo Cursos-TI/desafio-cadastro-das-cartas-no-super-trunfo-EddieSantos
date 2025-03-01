@@ -118,7 +118,10 @@ int main() {
     printf("População: %d\n", populacao2);
     printf("Área: %.2f Km²\n", area2);
     printf("PIB: %.2f Bilhões de reais\n", pib2);
-    printf("Nº de Pontos Turisticos: %d\n", turiticos2);
+    printf("Nº de Pontos Turisticos: %d\n \n", turiticos2);
+
+    // Mensagem de Encerrando Jogo
+    printf("Fim do Jogo! Aguarde Continuação.")
 
     // Outra forma também é inverter os código da forma que cadastre as duas cartas primeiro e depois exiba as duas juntas
 
