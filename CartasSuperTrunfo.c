@@ -9,10 +9,10 @@
     Curso ADS - Introdução à Programação de Computadores
     Tema 1 - Super Trunfo em C - Fundamentos e Técnicas Avançadas
     Exercício: Desafio Nível Novato - Criando as Cartas do Super Trunfo
-    Data: 01 de Março de 2025
+    Data: 28 de Fevereiro de 2025
     Aluno: Ednilson Graciano dos Santos
     Matrícula: 202503249997 
-    Versão: 0.1v
+    Versão: 0.1.5v
 */
 
 int main() {
