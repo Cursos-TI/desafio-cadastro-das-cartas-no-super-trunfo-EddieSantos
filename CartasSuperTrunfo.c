@@ -121,7 +121,7 @@ int main() {
     printf("Nº de Pontos Turisticos: %d\n \n", turiticos2);
 
     // Mensagem de Encerrando Jogo
-    printf("Fim do Jogo! Aguarde Continuação.")
+    printf("Fim do Jogo! Aguarde Continuação.");
 
     // Outra forma também é inverter os código da forma que cadastre as duas cartas primeiro e depois exiba as duas juntas
 
