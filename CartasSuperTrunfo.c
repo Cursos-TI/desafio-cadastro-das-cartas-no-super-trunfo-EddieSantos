@@ -52,13 +52,13 @@ int main() {
     scanf("%d", &carta1);
 
     printf("Digite o codigo (01-08) da carta: ");
-    scanf("%s", &codigo1);
+    scanf("%s", codigo1); // Aqui o proprio programa solicitou remover o "&" para variavel do tipo Char[]
 
     printf("Digite o estado (A-H): ");
     scanf("%s", &estado1);
 
     printf("Digite a cidade: ");
-    scanf("%s", &cidade1);
+    scanf("%s", cidade1); // Aqui o proprio programa solicitou remover o "&" para variavel do tipo Char[]
 
     printf("Digite a populacao: ");
     scanf("%d", &populacao1);
@@ -99,13 +99,13 @@ int main() {
     scanf("%d", &carta2);
 
     printf("Digite o codigo (01-08) da carta: ");
-    scanf("%s", &codigo2);
+    scanf("%s", codigo2); // Aqui o proprio programa solicitou remover o "&" para variavel do tipo Char[] 
 
     printf("Digite o estado (A-H): ");
     scanf("%s", &estado2);
 
     printf("Digite a cidade: ");
-    scanf("%s", &cidade2);
+    scanf("%s", cidade2); // Aqui o proprio programa solicitou remover o "&" para variavel do tipo Char[] 
 
     printf("Digite a populacao: ");
     scanf("%d", &populacao2);
