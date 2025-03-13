@@ -376,7 +376,7 @@ int main() {
     default:
         printf("\nOpção inválida\n");
         break;
-    }
+    }  
     // Mensagem de Encerrando Jogo
     printf("\nFim do Jogo!\n \n");
 
